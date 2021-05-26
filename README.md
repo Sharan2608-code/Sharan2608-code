@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sharan2608-code
 - 👀 I’m interested in web development and UI/UX design
 - 🌱 I’m currently learning CS engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me saisharan2608@gamil.com
 
 <!---
